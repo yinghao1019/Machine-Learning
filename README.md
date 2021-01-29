@@ -23,3 +23,6 @@ Naive bayes, logistic regression, bag of words on IMDB data.
 
 * [07_Eigenfaces.ipynb](notebooks/07_Eigenfaces.ipynb	)
 Preprocessing of faces and PCA analysis on the data to recontruct faces and see similarities among differnt faces.
+|   | Train  | Dev  | Test | labels |
+|:----: | :------: | ------: | ----- | -----|
+|IMDB  | 5678  | 2230  |265   | 2   |
